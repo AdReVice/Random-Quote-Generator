@@ -1,0 +1,63 @@
+body{
+background:url("http://smartfinancemag.com/wp-content/uploads/2016/01/Savin-NY-Website-Background-Web-1024x576.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+}
+
+.container{
+  text-align: center;
+}
+
+.twitter-button, .twitter-button:focus{
+  background-color: #0084b4;
+  border-color: black;
+  display: inline-block; 
+}
+.get-quote, .get-quote:focus{
+  border-color: black;
+  display: inline-block;
+  box-shadow: 0px 17px 20px -10px rgba(0,0,0,0.4);
+  background:#e74c3c;
+  color: #ecf0f1;
+}
+.btn-default {
+  border-width: 0; 
+  cursor: pointer;
+  line-height: normal;
+  position: relative;
+}
+.btn-default:hover{
+  background: #34495e;
+  color: flc40f;
+  box-shadow: 0px 57px 20px -20px rgba(0,0,0,0,0.2);
+  transform: translate(0px,-5px);
+}
+
+.fa-twitter{
+  color: white;
+}
+p{
+  font-size: 16px;
+  font-family: Josefin Sans;
+}
+h1,h3{
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.quote-box{
+  background: rgba(50,230,230,0.6);
+  color: black;
+  max-width: 1300px;
+  height: 105px;
+  margin: 10px auto;
+  border-radius: 10px;
+  padding: 1%;
+}
+a, a:focus{
+  color: #0645AD;
+}
+
+
+
+
+
